@@ -29,8 +29,8 @@ Your page should already include this block near the end of the `<body>`:
 
 **Locations in this repo**
 
-- `index.html:779` (main landing page)
-- `blackjack/index.html:645` (game table page)
+- `index.php:779` (main landing page)
+- `blackjack/index.php:645` (game table page)
 
 > No structural changes were required-only presentation tweaks. Copy this verbatim if any project is missing the snippet.
 
@@ -46,8 +46,8 @@ The script already handles:
 
 **Locations in this repo**
 
-- `index.html:795-845`
-- `blackjack/index.html:661-708`
+- `index.php:795-845`
+- `blackjack/index.php:661-708`
 
 Unless your other sites customised the script, you can reuse this block verbatim.
 
