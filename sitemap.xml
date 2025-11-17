@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://onemorehit.space/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/community/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/community/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/leaderboard/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/leaderboard/</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/daily-bonus/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/daily-bonus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/accessibility/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/accessibility/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/community-guidelines/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/community-guidelines/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/contact/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/cookie-policy/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/cookie-policy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/cookie-settings/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/cookie-settings/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/data-rights/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/data-rights/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/how-it-works/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/how-it-works/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/privacy/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/privacy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/responsible-play/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/responsible-play/</loc>
     <changefreq>quarterly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://onemorehit.space/terms/</loc>
+    <loc>https://onemorehit-f308684a9dd0.herokuapp.com/terms/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>

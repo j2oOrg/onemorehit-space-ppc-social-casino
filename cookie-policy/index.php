@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Cookie Policy | OneMoreHit.Space</title>
   <meta name="description" content="Understand how OneMoreHit.Space uses cookies, storage, and analytics, and how to manage your preferences.">
-  <link rel="canonical" href="https://onemorehit.space/cookie-policy/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/cookie-policy/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Cookie Policy | OneMoreHit.Space">
   <meta property="og:description" content="Breakdown of essential, analytics, and personalization cookies for the OneMoreHit.Space lounge.">
-  <meta property="og:url" content="https://onemorehit.space/cookie-policy/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/cookie-policy/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Cookie Policy | OneMoreHit.Space">

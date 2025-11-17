@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>How OneMoreHit.Space Works</title>
   <meta name="description" content="Understand the OneMoreHit.Space flow, virtual currency only, calm rooms, and nightly drops.">
-  <link rel="canonical" href="https://onemorehit.space/how-it-works/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/how-it-works/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="How OneMoreHit.Space Works">
   <meta property="og:description" content="Learn the simple steps to join our social casino lounge.">
-  <meta property="og:url" content="https://onemorehit.space/how-it-works/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/how-it-works/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="How OneMoreHit.Space Works">

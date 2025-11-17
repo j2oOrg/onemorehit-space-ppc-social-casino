@@ -6,12 +6,12 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Community | OneMoreHit.Space</title>
   <meta name="description" content="Meet the OneMoreHit.Space community&mdash;nightly rituals, playlists, moderators, and the etiquette that keeps the lounge cozy.">
-  <link rel="canonical" href="https://onemorehit.space/community/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/community/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Community | OneMoreHit.Space">
   <meta property="og:description" content="Learn how the OneMoreHit.Space community keeps the lounge kind, musical, and mindful.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://onemorehit.space/community/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/community/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Community | OneMoreHit.Space">
   <meta name="twitter:description" content="Playlists, rituals, and moderation that keep OneMoreHit.Space feeling human.">

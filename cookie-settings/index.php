@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Cookie Settings | OneMoreHit.Space</title>
   <meta name="description" content="Control optional cookies and storage for OneMoreHit.Space.">
-  <link rel="canonical" href="https://onemorehit.space/cookie-settings/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/cookie-settings/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Cookie Settings | OneMoreHit.Space">
   <meta property="og:description" content="Toggle analytics or personalization cookies whenever you like.">
-  <meta property="og:url" content="https://onemorehit.space/cookie-settings/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/cookie-settings/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Cookie Settings | OneMoreHit.Space">

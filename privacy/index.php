@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Privacy Policy | OneMoreHit.Space</title>
   <meta name="description" content="Learn how OneMoreHit.Space handles account data, analytics, and your privacy rights.">
-  <link rel="canonical" href="https://onemorehit.space/privacy/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/privacy/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Privacy Policy | OneMoreHit.Space">
   <meta property="og:description" content="Straightforward breakdown of the data we collect, why, and how to control it.">
-  <meta property="og:url" content="https://onemorehit.space/privacy/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/privacy/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Privacy Policy | OneMoreHit.Space">

@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Contact OneMoreHit.Space</title>
   <meta name="description" content="Reach the OneMoreHit.Space team for support, accessibility requests, and legal questions.">
-  <link rel="canonical" href="https://onemorehit.space/contact/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/contact/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Contact OneMoreHit.Space">
   <meta property="og:description" content="Support, accessibility, and privacy contacts for OneMoreHit.Space.">
-  <meta property="og:url" content="https://onemorehit.space/contact/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/contact/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Contact OneMoreHit.Space">

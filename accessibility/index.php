@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Accessibility Statement | OneMoreHit.Space</title>
   <meta name="description" content="Explore how OneMoreHit.Space keeps the lounge accessible with WCAG 2.1 AA practices, predictable layouts, and quick human support.">
-  <link rel="canonical" href="https://onemorehit.space/accessibility/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/accessibility/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Accessibility Statement | OneMoreHit.Space">
   <meta property="og:description" content="We design OneMoreHit.Space with predictable navigation, high-contrast palettes, semantic HTML, and real humans for support.">
-  <meta property="og:url" content="https://onemorehit.space/accessibility/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/accessibility/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Accessibility Statement | OneMoreHit.Space">

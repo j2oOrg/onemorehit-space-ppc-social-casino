@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Responsible Play | OneMoreHit.Space</title>
   <meta name="description" content="OneMoreHit.Space is entertainment-only. Review our safety tools, age limits, and support resources.">
-  <link rel="canonical" href="https://onemorehit.space/responsible-play/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/responsible-play/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Responsible Play | OneMoreHit.Space">
   <meta property="og:description" content="Safety-first policies and resources for the OneMoreHit.Space lounge.">
-  <meta property="og:url" content="https://onemorehit.space/responsible-play/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/responsible-play/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Responsible Play | OneMoreHit.Space">

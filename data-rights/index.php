@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Data Rights | OneMoreHit.Space</title>
   <meta name="description" content="Learn how to exercise GDPR and CPRA rights with OneMoreHit.Space, access, deletion, portability, and more in one place.">
-  <link rel="canonical" href="https://onemorehit.space/data-rights/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/data-rights/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Data Rights | OneMoreHit.Space">
   <meta property="og:description" content="Request or delete your data, opt out of signals, and reach our privacy team directly.">
-  <meta property="og:url" content="https://onemorehit.space/data-rights/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/data-rights/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Data Rights | OneMoreHit.Space">

@@ -12,11 +12,11 @@
   <meta property="og:title" content="Daily Bonus | OneMoreHit.Space">
   <meta property="og:description" content="Collect 1,000 coins daily and build streaks toward special keepsakes.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://onemorehit.space/daily-bonus/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/daily-bonus/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Daily Bonus | OneMoreHit.Space">
   <meta name="twitter:description" content="Collect 1,000 coins daily and build streaks toward special keepsakes.">
-  <link rel="canonical" href="https://onemorehit.space/daily-bonus/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/daily-bonus/">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="stylesheet" href="/styles.css?v=4">
 </head>

@@ -13,13 +13,13 @@
   <meta property="og:title" content="OneMoreHit.Space | After-dark Social Casino Orbit">
   <meta property="og:description" content="Enter OneMoreHit.Space for curated rooms, human hosts, playlists, and responsibility-first rituals&mdash;never deposits or withdrawals.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://onemorehit.space/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="OneMoreHit.Space | After-dark Social Casino Orbit">
   <meta name="twitter:description" content="Social slots, cards, and playlists hosted by humans with zero cash play and built-in pauses.">
-  <link rel="canonical" href="https://onemorehit.space/">
-  <link rel="alternate" href="https://onemorehit.space/" hreflang="en">
-  <link rel="alternate" href="https://onemorehit.space/" hreflang="x-default">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/">
+  <link rel="alternate" href="https://onemorehit-f308684a9dd0.herokuapp.com/" hreflang="en">
+  <link rel="alternate" href="https://onemorehit-f308684a9dd0.herokuapp.com/" hreflang="x-default">
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="stylesheet" href="/styles.css?v=4">

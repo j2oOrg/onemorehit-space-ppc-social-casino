@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://onemorehit.space/sitemap.xml
+Sitemap: https://onemorehit-f308684a9dd0.herokuapp.com/sitemap.xml

@@ -12,11 +12,11 @@
   <meta property="og:title" content="Leaderboard | OneMoreHit.Space">
   <meta property="og:description" content="Track OneMoreHit.Space leaderboard rankings. Free play only&mdash;no purchases.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://onemorehit.space/leaderboard/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/leaderboard/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Leaderboard | OneMoreHit.Space">
   <meta name="twitter:description" content="Track OneMoreHit.Space leaderboard rankings. Free play only&mdash;no purchases.">
-  <link rel="canonical" href="https://onemorehit.space/leaderboard/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/leaderboard/">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="stylesheet" href="/styles.css?v=4">
 </head>

@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Terms of Service | OneMoreHit.Space</title>
   <meta name="description" content="Read the OneMoreHit.Space terms covering accounts, acceptable use, virtual items, and responsible play.">
-  <link rel="canonical" href="https://onemorehit.space/terms/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/terms/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Terms of Service | OneMoreHit.Space">
   <meta property="og:description" content="The legal agreement that governs your use of OneMoreHit.Space.">
-  <meta property="og:url" content="https://onemorehit.space/terms/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/terms/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Terms of Service | OneMoreHit.Space">
@@ -58,7 +58,7 @@
       <div class="shell content-grid">
         <article class="content-card content-card--wide">
           <h2>1. Overview</h2>
-          <p>OneMoreHit.Space ("OneMoreHit.Space", "we", "us") operates a free-to-play social casino experience delivered via https://onemorehit.space. Accessing the site or creating a lounge pass means you agree to these terms and our supporting policies.</p>
+          <p>OneMoreHit.Space ("OneMoreHit.Space", "we", "us") operates a free-to-play social casino experience delivered via https://onemorehit-f308684a9dd0.herokuapp.com. Accessing the site or creating a lounge pass means you agree to these terms and our supporting policies.</p>
         </article>
         <article class="content-card">
           <h2>2. Eligibility</h2>

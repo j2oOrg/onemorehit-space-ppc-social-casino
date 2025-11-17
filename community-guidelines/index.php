@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#ff5ddc">
   <title>Community Guidelines | OneMoreHit.Space</title>
   <meta name="description" content="Read the OneMoreHit.Space community code, built on respect, safety, and a zero-harassment stance.">
-  <link rel="canonical" href="https://onemorehit.space/community-guidelines/">
+  <link rel="canonical" href="https://onemorehit-f308684a9dd0.herokuapp.com/community-guidelines/">
   <meta property="og:site_name" content="OneMoreHit.Space">
   <meta property="og:title" content="Community Guidelines | OneMoreHit.Space">
   <meta property="og:description" content="Learn how we keep the OneMoreHit.Space lounge respectful and inclusive.">
-  <meta property="og:url" content="https://onemorehit.space/community-guidelines/">
+  <meta property="og:url" content="https://onemorehit-f308684a9dd0.herokuapp.com/community-guidelines/">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Community Guidelines | OneMoreHit.Space">
