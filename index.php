@@ -50,9 +50,9 @@
         <div class="hero__layout">
           <article class="hero__intro">
             <p class="pill">OneMoreHit.Space social casino</p>
-            <h1>OneMoreHit.Space is the extra-spin lounge for intentional play.</h1>
-            <p>Our nightly orbit favors conversation, playlists, and calm focus over flashing jackpots. Live hosts swap vinyl-style sets, pair every room with a breathing ritual, and keep the space 18+ so everyone can unwind without noise.</p>
-            <p>No wallets, no withdrawals&mdash;just adults meeting up to compare tactics, trade stories, and savor the moment before one more spin.</p>
+            <h1>OneMoreHit.Space is the after-dark social casino lounge for intentional play.</h1>
+            <p>When you type OneMoreHit.Space into the address bar, you are stepping into a night shift built for people who like a social casino vibe without the pushy neon. The lounge rotates mellow playlists, keeps the lights low, and invites the same dependable hosts to keep everyone grounded.</p>
+            <p>Cash never needs to enter the chat here. Chips refresh together, hosts guide the room through breathing cues, and regulars swap stories about the spin that almost landed. It feels like walking into your favorite booth where someone already saved you a seat.</p>
             <div class="button-row">
               <a class="btn btn--primary" href="#experience">Tour OneMoreHit.Space</a>
               <a class="btn btn--ghost" href="/responsible-play/">See our care standards</a>
@@ -185,76 +185,79 @@
 
           <p>That founding momentum still bubbles up during updates: handwritten welcome notes, playlist swaps, and debrief calls where we listen more than we pitch.</p>
 
-          <div class="feature-card" style="margin-top:1.5rem;">
-
-            <h3>The studio phase</h3>
-
-            <p>We hung track lights inside a miniature warehouse, treated walls like gallery rails, and tuned glow levels until the room whispered. That practice taught us to treat digital rooms like boutique lounges where lighting, copy, and pacing all matter.</p>
-
-            <p>Friends swung by with snacks, played QA host, and called out sharp fonts or nagging CTAs. Those critiques shaped the calm shell you see today.</p>
-
-          </div>
-
-          <div class="feature-card" style="margin-top:1.5rem;">
-
-            <h3>The community phase</h3>
-
-            <p>Open studio nights slowly became weekly hangs that felt like mellow club residencies. We passed around instant photos, zines for song requests, and analog badges that inspired today's frames.</p>
-
-            <p>Hearing someone say "this lounge feels safer than my favorite bar" was the nudge that kept us iterating.</p>
-
-          </div>
-
-          <div class="feature-card" style="margin-top:1.5rem;">
-
-            <h3>The hosting phase</h3>
-
-            <p>As attendance climbed we trained moderators like concierge hosts&mdash;attentive, grounded, never loud. We rehearse greetings, resets, and exit rituals so every interaction feels deliberate.</p>
-
-            <p>Those playbooks now inform every email, playlist drop, and responsible-play check-in across OneMoreHit.Space.</p>
-
+          <div class="phase-grid" aria-label="Build phases of OneMoreHit.Space">
+            <article class="phase-card">
+              <p class="phase-card__tag">Prototype lab</p>
+              <h3>Studio glow + code</h3>
+              <p>We staged our first experiments inside a borrowed gallery: light rigs, foam-core control panels, and laptops running wireframes. Every pass balanced tactile cues with interface polish.</p>
+              <ul class="phase-points">
+                <li>Hand-dialed gradients matched the actual gels hanging overhead.</li>
+                <li>Copywriters and audio leads edited together so tone and tempo stayed in sync.</li>
+              </ul>
+            </article>
+            <article class="phase-card">
+              <p class="phase-card__tag">Listening parties</p>
+              <h3>Community mixtapes</h3>
+              <p>Weekly "slow launches" invited ten friends at a time to play, annotate, and rate each ritual. They left polaroids, devo notes, and soundtrack swaps that still inform our room presets.</p>
+              <ul class="phase-points">
+                <li>Feedback walls paired sketches with feelings to keep decisions human.</li>
+                <li>Badge ideas, playlists, and etiquette prompts all came from those circles.</li>
+              </ul>
+            </article>
+            <article class="phase-card">
+              <p class="phase-card__tag">Host guild</p>
+              <h3>Live moderation craft</h3>
+              <p>Once the lounge filled up, we treated hosting like a craft residency. Mods rehearse greetings, check-ins, and wind-downs just like musicians run soundcheck.</p>
+              <ul class="phase-points">
+                <li>Roleplay drills teach when to spark conversation and when to pause the room.</li>
+                <li>Care rituals are documented, iterated, and shared with every new host.</li>
+              </ul>
+            </article>
           </div>
 
         </div>
 
-        <div class="feature-card">
-
-          <h3>The spark</h3>
-
-          <p>One soaked Portland weekend we assembled the first prototype: teal fog, softened reels, and moderators speaking at library volume. Eight friends lingered for hours, so we widened the door.</p>
-
-          <p>Those early sessions ran on reclaimed laptops and paper rulebooks. It sounded impossible, yet the room felt safe and the story circulated like a prized mixtape.</p>
-
-          <ul class="checklist" aria-label="Principles that still guide us">
-
+        <div class="spark-panel" aria-labelledby="spark-title">
+          <div class="spark-panel__header">
+            <p class="spark-panel__tag">Spark remix</p>
+            <h3 id="spark-title">The neon caravan</h3>
+            <p>A stormy weekend in Portland birthed the lounge: we hijacked a loading dock, draped it in magenta gels, and streamed prototype rooms off thrifted gear. Eight friends stayed until sunrise because it finally felt like play without pressure.</p>
+          </div>
+          <div class="spark-panel__grid">
+            <div>
+              <small>Setting</small>
+              <strong>Alleyway studio</strong>
+              <p>Fog machines, blanket forts, and a single projector casting loops on brick.</p>
+            </div>
+            <div>
+              <small>Soundtrack</small>
+              <strong>Lofi vinyl relay</strong>
+              <p>Every guest took a turn queuing a track to teach us the pacing they craved.</p>
+            </div>
+            <div>
+              <small>Promise</small>
+              <strong>Zero-cash forever</strong>
+              <p>The prototype ledger literally read "money-free or we scrap it." That stuck.</p>
+            </div>
+          </div>
+          <ul class="spark-panel__commitments" aria-label="Commitments born from the spark night">
             <li>
-
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-
-              <span>No cash-outs, ever. We celebrate streaks without tying them to spend.</span>
-
+              <span>01</span>
+              <p>Design for low light and low bandwidth so anyone can join from a couch, bus, or break room.</p>
             </li>
-
             <li>
-
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-
-              <span>Interfaces stay legible on humble hardware so a thrift-store laptop can keep up.</span>
-
+              <span>02</span>
+              <p>Keep humans in every loop&mdash;moderation, support, playlists, and ritual check-ins.</p>
             </li>
-
             <li>
-
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-
-              <span>Humans run moderation, support, and responsible-play replies&mdash;no scripts, just people.</span>
-
+              <span>03</span>
+              <p>Treat pauses, hydration, and wellbeing as wins worth cheering louder than streaks.</p>
             </li>
-
           </ul>
-
-          <p>We still raise a toast to those original eight players whenever a new room opens. They proved OneMoreHit.Space could stay generous, transparent, and real.</p>
-
+          <div class="spark-panel__badge">
+            <strong>Eight originals</strong>
+            <p>We still toast them when a new room opens.</p>
+          </div>
         </div>
 
       </div>
@@ -685,7 +688,4 @@
   </footer>
 </body>
 </html>
-
-
-
 
