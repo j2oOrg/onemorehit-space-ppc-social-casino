@@ -216,20 +216,44 @@ blockquote {
 }
 
 .site-nav a {
+  position: relative;
   color: var(--text);
-  padding: 0.55rem 0.2rem;
-  border-bottom: 2px solid transparent;
+  padding: 0.7rem 1rem;
+  border-radius: 999px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
+  overflow: hidden;
+}
+
+.nav-label {
+  position: relative;
+  z-index: 1;
+}
+
+.nav-glow {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(120deg, rgba(255, 93, 220, 0.2), rgba(124, 230, 255, 0.2));
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 .site-nav a:hover,
 .site-nav a:focus-visible,
 .site-nav a[aria-current="page"] {
-  border-color: var(--brand-electric);
   color: var(--brand-electric);
+}
+
+.site-nav a:hover .nav-glow,
+.site-nav a:focus-visible .nav-glow,
+.site-nav a[aria-current="page"] .nav-glow {
+  opacity: 1;
+  transform: scale(1);
 }
 
 .button-row {

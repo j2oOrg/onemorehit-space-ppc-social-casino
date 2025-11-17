@@ -35,10 +35,10 @@
       </a>
 
       <nav class="site-nav" aria-label="Primary">
-        <a href="/" aria-current="page">Home</a>
-        <a href="/community/">Community</a>
-        <a href="/responsible-play/">Responsible Play</a>
-        <a href="/contact/">Contact</a>
+        <a href="/" aria-current="page"><span class="nav-label">Home</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/community/"><span class="nav-label">Community</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/responsible-play/"><span class="nav-label">Responsible Play</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/contact/"><span class="nav-label">Contact</span><span class="nav-glow" aria-hidden="true"></span></a>
       </nav>
     </div>
   </header>
