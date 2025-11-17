@@ -31,10 +31,10 @@
       </a>
 
       <nav class="site-nav" aria-label="Primary">
-        <a href="/">Home</a>
-        <a href="/community/">Community</a>
-        <a href="/responsible-play/">Responsible Play</a>
-        <a href="/contact/" aria-current="page">Contact</a>
+        <a href="/"><span class="nav-label">Home</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/community/"><span class="nav-label">Community</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/responsible-play/"><span class="nav-label">Responsible Play</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/contact/" aria-current="page"><span class="nav-label">Contact</span><span class="nav-glow" aria-hidden="true"></span></a>
       </nav>
     </div>
   </header>
@@ -85,7 +85,7 @@
       <div class="shell grid-split">
         <div class="content-card">
           <h2>Send a quick note</h2>
-          <form action="mailto:support@onemorehit.space" method="post" enctype="text/plain">
+          <form class="quick-note-form" action="#" onsubmit="window.location.href='mailto:support@onemorehit.space';return false;">
             <label for="name">Name</label>
             <input id="name" name="name" type="text" placeholder="Your display name" required>
             <label for="email">Email</label>
@@ -94,14 +94,29 @@
             <textarea id="message" name="message" placeholder="How can we help?" required></textarea>
             <button class="btn btn--primary" type="submit">Email support</button>
           </form>
-          <p style="margin-top:0.8rem;" aria-live="polite">Submitting opens your default email app with the details above.</p>
+          <p style="margin-top:0.8rem;" aria-live="polite">Clicking the button simply opens a blank email to support@onemorehit.space so you can decide what to include.</p>
         </div>
-        <div class="content-card">
-          <h2>Studio details</h2>
-          <p>OneMoreHit.Space Studio</p>
-          <p>PO Box 82012</p>
-          <p>Portland, OR 97282 USA</p>
-          <p>Card-based correspondance only; no walk-ins.</p>
+        <div class="studio-card" aria-label="Studio details">
+          <div class="studio-card__header">
+            <p class="studio-tag">OneMoreHit.Space Studio</p>
+            <h2>Where to mail the lounge</h2>
+            <p>Drop us a note or care package. We check the box twice a week and reply via email or phone.</p>
+          </div>
+          <div class="studio-card__details">
+            <div>
+              <small>Mailing box</small>
+              <strong>PO Box 52465</strong>
+            </div>
+            <div>
+              <small>City</small>
+              <strong>Portland, OR 97282 USA</strong>
+            </div>
+            <div>
+              <small>Delivery notes</small>
+              <strong>Card-based correspondence only; no walk-ins.</strong>
+            </div>
+          </div>
+          <p class="studio-card__foot">Need to send documents? Email <a href="mailto:legal@onemorehit.space">legal@onemorehit.space</a> for a secure upload link.</p>
         </div>
       </div>
     </section>
@@ -149,9 +164,6 @@
   </footer>
 </body>
 </html>
-
-
-
 
 
 
