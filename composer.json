@@ -1,0 +1,7 @@
+{
+  "name": "onemorehit/space",
+  "description": "Static marketing site for OneMoreHit.Space served via Heroku PHP buildpack",
+  "require": {
+    "php": "^8.2"
+  }
+}
