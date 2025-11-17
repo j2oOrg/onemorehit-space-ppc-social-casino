@@ -129,7 +129,7 @@
                 </div>
               </li>
             </ul>
-            <div class="hero__panel-badge"><strong>.SPACE</strong><span>Social casino domain</span></div>
+            <div class="hero__panel-badge"><strong>OneMoreHit.Space</strong><span>Nightly social casino orbit</span></div>
           </aside>
         </div>
       </div>
@@ -688,4 +688,3 @@
   </footer>
 </body>
 </html>
-
