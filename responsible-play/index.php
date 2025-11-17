@@ -31,10 +31,10 @@
       </a>
 
       <nav class="site-nav" aria-label="Primary">
-        <a href="/">Home</a>
-        <a href="/community/">Community</a>
-        <a href="/responsible-play/" aria-current="page">Responsible Play</a>
-        <a href="/contact/">Contact</a>
+        <a href="/"><span class="nav-label">Home</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/community/"><span class="nav-label">Community</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/responsible-play/" aria-current="page"><span class="nav-label">Responsible Play</span><span class="nav-glow" aria-hidden="true"></span></a>
+        <a href="/contact/"><span class="nav-label">Contact</span><span class="nav-glow" aria-hidden="true"></span></a>
       </nav>
     </div>
   </header>
@@ -44,54 +44,114 @@
       <div class="shell hero__grid">
         <div>
           <p class="pill">Safety first</p>
-          <h1>Responsible play is our non-negotiable.</h1>
-          <p>OneMoreHit.Space is a chill lounge, not a path to profit. Keep sessions mindful, respect limits, and ask for help when something feels off.</p>
+          <h1>Responsible play is the reason OneMoreHit.Space exists.</h1>
+          <p>We designed this social casino lounge to feel like a calm booth with friends&mdash;no jackpots to chase, no pressure to stay. Limits, pauses, and human hosts are the default.</p>
         </div>
-        <div class="hero__card">
-          <h3>Need immediate help?</h3>
-          <p>Email <a href="mailto:support@onemorehit.space">support@onemorehit.space</a> with "Pause Request" and we'll lock your account within minutes.</p>
+        <div class="care-panel" aria-label="Immediate help">
+          <p class="care-panel__tag">Need help now?</p>
+          <h3>Email support@onemorehit.space</h3>
+          <ul>
+            <li>Write "Pause Request" in the subject line.</li>
+            <li>Include your display name and how long you want to step away.</li>
+            <li>Hosts confirm within minutes and send a recap when the pause activates.</li>
+          </ul>
+          <p class="care-panel__foot">Urgent wellbeing concerns also reach a care lead instantly.</p>
         </div>
       </div>
     </section>
 
     <section class="section">
-      <div class="shell content-grid">
-        <article class="content-card">
-          <h2>Core principles</h2>
-          <ul>
-            <li>18+ only.</li>
-            <li>No cash prizes or cash-outs, everything is virtual.</li>
-            <li>Random outcomes mean past spins never affect future ones.</li>
-          </ul>
+      <div class="shell">
+        <div class="section__header">
+          <p class="pill">Safeguards</p>
+          <h2>Tools baked into OneMoreHit.Space.</h2>
+          <p>Everything in this lounge is virtual, but the care is real. These controls ship with every account.</p>
+        </div>
+        <div class="care-grid">
+          <article class="care-card">
+            <p class="care-card__tag">Principle</p>
+            <h3>18+ and identity checks</h3>
+            <p>We verify age before granting chat access and re-verify upon suspicious behavior or device changes.</p>
+          </article>
+          <article class="care-card">
+            <p class="care-card__tag">Money-free</p>
+            <h3>No wallets, ever</h3>
+            <p>Chips refresh together, there are zero purchases, and streaks are celebrated without deposits.</p>
+          </article>
+          <article class="care-card">
+            <p class="care-card__tag">Pacing</p>
+            <h3>Session reminders</h3>
+            <p>Opt into 15, 30, or 60 minute reminders that show up in-room and via quiet DM.</p>
+          </article>
+          <article class="care-card">
+            <p class="care-card__tag">Visibility</p>
+            <h3>Quiet mode</h3>
+            <p>Hide leaderboards, chat, or animations if you need a solo vibe without leaving the lounge.</p>
+          </article>
+          <article class="care-card">
+            <p class="care-card__tag">Pauses</p>
+            <h3>Self-directed breaks</h3>
+            <p>Lock yourself out for 24 hours, 7 days, 30 days, or permanently. Hosts confirm personally.</p>
+          </article>
+          <article class="care-card">
+            <p class="care-card__tag">Moderation</p>
+            <h3>Real humans watching tone</h3>
+            <p>Hosts follow a wellbeing checklist, check in privately, and elevate concerns to the care desk.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--contrast">
+      <div class="shell">
+        <div class="section__header">
+          <p class="pill">Pause path</p>
+          <h2>If play stops feeling fun, we halt it fast.</h2>
+          <p>Here is exactly what happens the moment you ask for a timeout.</p>
+        </div>
+        <ol class="care-steps" aria-label="Pause process">
+          <li>
+            <div class="care-step__head">
+              <span class="care-step__number">01</span>
+              <h3>Email or DM support</h3>
+            </div>
+            <p>Message support@onemorehit.space or ping a host in any room. Include your display name and how long you would like the pause to last.</p>
+          </li>
+          <li>
+            <div class="care-step__head">
+              <span class="care-step__number">02</span>
+              <h3>Host follows up</h3>
+            </div>
+            <p>A care lead confirms the request, offers resources, and sends a recap of what to expect while your account is locked.</p>
+          </li>
+          <li>
+            <div class="care-step__head">
+              <span class="care-step__number">03</span>
+              <h3>Account locks + recap</h3>
+            </div>
+            <p>We disable login, send a confirmation email, and remind you how to reach out if you need to extend or end the pause early.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell resource-grid">
+        <article class="resource-panel">
+          <h2>Talk to our care desk</h2>
+          <p>Email <a href="mailto:support@onemorehit.space">support@onemorehit.space</a>, DM a host, or call the number shared in your account settings. We answer within a business day, often much sooner.</p>
+          <p>Need anonymous help? Choose from the partners listed alongside.</p>
         </article>
-        <article class="content-card">
-          <h2>Tools you control</h2>
-          <ul>
-            <li>Session reminders every 15, 30, or 60 minutes.</li>
-            <li>Quiet mode to hide leaderboards.</li>
-            <li>Self-pauses (24 hours, 7 days, or permanent).</li>
-          </ul>
-        </article>
-        <article class="content-card">
-          <h2>Request a pause</h2>
-          <ol>
-            <li>Email <a href="mailto:support@onemorehit.space">support@onemorehit.space</a>.</li>
-            <li>Include username + pause length.</li>
-            <li>We confirm and lock access within 12 hours (usually faster).</li>
-          </ol>
-        </article>
-        <article class="content-card">
-          <h2>Community support</h2>
-          <p>Moderators watch for distress signals and can nudge you toward resources or pause options mid-session.</p>
-        </article>
-        <article class="content-card content-card--wide">
-          <h2>External resources</h2>
-          <ul>
-            <li><a href="https://www.ncpgambling.org/" rel="nofollow">NCPG (US)</a></li>
+        <article class="resource-panel">
+          <h2>Global helplines we trust</h2>
+          <ul class="resource-list">
+            <li><a href="https://www.ncpgambling.org/" rel="nofollow">National Council on Problem Gambling (US)</a></li>
+            <li><a href="https://www.gamblinghelponline.org.au/" rel="nofollow">Gambling Help Online (AU)</a></li>
             <li><a href="https://www.begambleaware.org/" rel="nofollow">BeGambleAware (UK)</a></li>
             <li><a href="https://www.gamblersanonymous.org/ga/" rel="nofollow">Gamblers Anonymous</a></li>
             <li><a href="https://www.gamcare.org.uk/" rel="nofollow">GamCare</a></li>
           </ul>
+          <p class="resource-note">If you are outside these regions, email us and we will connect you to a vetted hotline near you.</p>
         </article>
       </div>
     </section>
@@ -139,7 +199,6 @@
   </footer>
 </body>
 </html>
-
 
 
 

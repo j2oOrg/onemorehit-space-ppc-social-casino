@@ -521,6 +521,34 @@ blockquote {
   color: var(--brand-amber);
 }
 
+.care-panel {
+  border-radius: var(--radius-lg);
+  padding: clamp(1.5rem, 3vw, 2.5rem);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(5, 5, 20, 0.6);
+  box-shadow: 0 25px 55px rgba(0, 0, 0, 0.45);
+  display: grid;
+  gap: 0.75rem;
+}
+
+.care-panel__tag {
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-size: 0.65rem;
+  color: var(--brand-slate);
+}
+
+.care-panel ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: var(--muted);
+}
+
+.care-panel__foot {
+  font-size: 0.9rem;
+  color: var(--muted-soft);
+}
+
 .spark-panel {
   border-radius: var(--radius-lg);
   padding: clamp(1.8rem, 4vw, 2.8rem);
@@ -727,6 +755,91 @@ blockquote {
   box-shadow: var(--shadow-soft);
   display: grid;
   gap: 0.9rem;
+}
+
+.care-grid {
+  display: grid;
+  gap: 1.2rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.care-card {
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 1.4rem;
+  background: rgba(5, 6, 20, 0.7);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.35);
+  display: grid;
+  gap: 0.6rem;
+}
+
+.care-card__tag {
+  text-transform: uppercase;
+  letter-spacing: 0.26em;
+  font-size: 0.62rem;
+  color: var(--brand-amber);
+}
+
+.care-steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.care-steps li {
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 1.5rem;
+  background: rgba(5, 5, 20, 0.65);
+  display: grid;
+  gap: 0.5rem;
+}
+
+.care-step__head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.care-step__number {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: grid;
+  place-items: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.12em;
+  color: var(--brand-slate);
+}
+
+.resource-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.resource-panel {
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: clamp(1.6rem, 3vw, 2.4rem);
+  background: rgba(5, 7, 18, 0.78);
+  box-shadow: 0 30px 65px rgba(0, 0, 0, 0.4);
+  display: grid;
+  gap: 0.8rem;
+}
+
+.resource-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: var(--muted);
+}
+
+.resource-note {
+  font-size: 0.9rem;
+  color: var(--muted-soft);
 }
 
 .studio-card {
