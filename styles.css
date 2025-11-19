@@ -134,6 +134,21 @@ blockquote {
   transform: translate(-50%, 0);
 }
 
+.compliance-banner {
+  background: linear-gradient(120deg, #ff5d7a, #ffb067);
+  color: #1a0614;
+  text-align: center;
+  padding: 0.85rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.compliance-banner p {
+  margin: 0;
+}
+
 .shell {
   width: min(1180px, 100%);
   margin: 0 auto;
@@ -643,6 +658,64 @@ blockquote {
   margin-bottom: 0.3rem;
 }
 
+
+.game-demo {
+  background: rgba(6, 8, 26, 0.75);
+  border-block: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.game-demo__grid {
+  display: grid;
+  gap: clamp(1.5rem, 4vw, 2.5rem);
+  grid-template-columns: minmax(0, 1.4fr) minmax(240px, 1fr);
+  align-items: start;
+}
+
+.game-demo__frame {
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  overflow: hidden;
+  box-shadow: 0 35px 70px rgba(0, 0, 0, 0.45);
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.game-demo__frame iframe {
+  width: 100%;
+  min-height: 520px;
+  border: 0;
+  display: block;
+}
+
+.game-demo__sidebar {
+  display: grid;
+  gap: 1rem;
+}
+
+.game-demo__card {
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 1.4rem;
+  background: rgba(5, 5, 20, 0.65);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.35);
+  display: grid;
+  gap: 0.6rem;
+}
+
+.game-demo__card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.game-demo__actions {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.game-demo__note {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 .hero__grid {
   display: grid;
   gap: clamp(2rem, 4vw, 3.5rem);
@@ -1133,6 +1206,10 @@ textarea {
 
 @media (max-width: 900px) {
   .hero__layout {
+    grid-template-columns: 1fr;
+  }
+
+  .game-demo__grid {
     grid-template-columns: 1fr;
   }
 

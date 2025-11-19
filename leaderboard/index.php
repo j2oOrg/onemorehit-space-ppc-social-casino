@@ -22,6 +22,9 @@
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="compliance-banner" role="status">
+    <p>OneMoreHit.Space is a free-to-play social casino for adults 18+. It does not offer real money gambling or prizes.</p>
+  </div>
   <header class="site-header">
     <div class="container header-inner">
       <a class="brand" href="/">

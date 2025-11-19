@@ -26,6 +26,9 @@
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="compliance-banner" role="status">
+    <p>OneMoreHit.Space is a free-to-play social casino for adults 18+. It does not offer real money gambling or prizes.</p>
+  </div>
   <header class="site-header">
     <div class="shell header__inner">
       <a class="brand" href="/" aria-label="OneMoreHit.Space home">
@@ -412,6 +415,38 @@
 
     </section>
 
+    <section class="section game-demo" id="game-demo">
+      <div class="shell">
+        <div class="section__header">
+          <p class="pill">Spotlight game</p>
+          <h2>Play Rise of Orpheus without leaving OneMoreHit.Space.</h2>
+          <p>This free-to-play preview mirrors the exact Rise of Orpheus experience from our lounge&mdash;no cash wallets, just atmosphere, pacing cues, and hosts on standby.</p>
+        </div>
+        <div class="game-demo__grid">
+          <div class="game-demo__frame" aria-label="Rise of Orpheus demo">
+            <iframe id="orpheus-demo" src="https://released.playngonetwork.com/casino/ContainerLauncher?pid=2&amp;gid=riseoforpheus&amp;lang=en_GB&amp;practice=1&amp;channel=desktop&amp;demo=2" title="Rise of Orpheus demo" loading="lazy" allowfullscreen></iframe>
+          </div>
+          <div class="game-demo__sidebar">
+            <div class="game-demo__card">
+              <h3>Why we picked this demo</h3>
+              <p>Rise of Orpheus leans into moody gradients and collaborative multipliers, making it a perfect match for the OneMoreHit.Space pacing rituals.</p>
+              <ul>
+                <li>Practice mode only&mdash;chips reset each refresh.</li>
+                <li>Hosts can mirror this room on request.</li>
+                <li>Desktop and tablet friendly.</li>
+              </ul>
+            </div>
+            <div class="game-demo__actions">
+              <button class="btn btn--primary" data-demo-refresh>Restart demo</button>
+              <a class="btn btn--soft" href="/community/">Meet the host crew</a>
+              <a class="btn btn--ghost" href="/responsible-play/">See our responsible play guardrails</a>
+            </div>
+            <p class="game-demo__note">Need a different room? Email <a href="mailto:support@onemorehit.space">support@onemorehit.space</a> and we will spin up a demo that fits your vibe.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="section section--contrast" id="rooms">
 
       <div class="shell grid-split">
@@ -686,5 +721,15 @@
       </a>
     </div>
   </footer>
+  <script>
+    document.addEventListener('click', function (event) {
+      const target = event.target.closest('[data-demo-refresh]');
+      if (!target) return;
+      const frame = document.getElementById('orpheus-demo');
+      if (frame) {
+        frame.src = frame.src;
+      }
+    });
+  </script>
 </body>
 </html>
