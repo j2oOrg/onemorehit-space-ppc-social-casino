@@ -136,7 +136,7 @@ blockquote {
 
 .compliance-banner {
   background: linear-gradient(120deg, #ff5d7a, #ffb067);
-  color: #1a0614;
+  color: #120208;
   text-align: center;
   padding: 0.85rem 1rem;
   font-size: 0.95rem;
@@ -1250,4 +1250,3 @@ textarea {
   }
 
 }
-
